@@ -1,0 +1,26 @@
+# Dados do usuário (imagens e histórico)
+data/uploads/*
+data/results/*
+data/history.json
+!data/uploads/.gitkeep
+!data/results/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editores / IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Logs e temporários
+*.log
+*.tmp
